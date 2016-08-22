@@ -1,0 +1,47 @@
+
+# <!-- starbreak -------
+#64.233.189.121 www.starbreak.com
+74.125.29.121 www.starbreak.com
+174.129.25.170 starbreak.com
+74.125.21.121 ghs.googlehosted.com
+203.208.39.233 www.google-analytics.com
+# www.google-analytics.com
+23.41.91.91 code.createjs.com
+# ----starbreak End --->
+
+#<----- dmzj --------
+#183.91.33.75 manhua.dmzj.com
+#183.91.33.74 static.dmzj.com
+#183.91.33.74 images.dmzj.com
+#117.131.204.110 afpmm.alicdn.com
+#140.205.33.62 afpeng.alimama.com
+# ------ dmzj End ------>
+
+
+#<!--  zhihu.com
+54.223.202.144 pic.zhimg.com
+221.180.248.23 pic1.zhimg.com
+221.180.248.23 pic2.zhimg.com
+183.203.29.164 pic3.zhimg.com
+23.76.76.67    pic4.zhimg.com
+
+112.29.152.100 www.zhihu.com
+183.203.29.161 static.zhihu.com
+183.203.29.162 zhstatic.zhihu.com
+112.29.152.100 zhihu-web-analytics.zhihu.com
+#-------zhihu.com End-------->
+
+
+#<!--  Github  --------
+192.30.253.112 github.com
+192.30.253.125 live.github.com
+192.30.253.117 api.github.com
+151.101.100.133 help.github.com
+107.23.215.41 collector.githubapp.com
+151.101.100.133 assets-cdn.github.com
+151.101.100.133 avatars1.githubusercontent.com
+151.101.100.133 avatars2.githubusercontent.com
+151.101.100.133 cloud.githubusercontent.com
+151.101.100.133 camo.githubusercontent.com
+151.101.100.133 raw.githubusercontent.com
+#------Github End------>
